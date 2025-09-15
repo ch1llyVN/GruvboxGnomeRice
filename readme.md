@@ -29,6 +29,7 @@ First, put the `kitty`, `paperwm` to .config, then put the contents in `themes` 
 7) Drag the "gruvboxy.colours" file inside the "color-schemes" folder.
 8) Apply the Theme in Krita.
 ### Discord 
+Put this in your quick css editor (Vencord)
 ```css
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
 
