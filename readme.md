@@ -9,5 +9,7 @@
 First, put the `kitty`, `paperwm` to .config, then put the contents in `themes` and `icons` to your `.themes` and `.icons` (`/usr/share/icons` and `/usr/share/themes`) if you want to install for all user. After that open kando and open setting -> open the directory -> put the `config.json` and replace the config file then open `kando/menu-themes` and put `gruvnavbar` folder in that directory. The final step, open extension manager then select Open Bar -> setting admin -> import the file in `openbar` folder named `gruvbox`
 
 ## Preview
+![alt text](https://github.com/ch1llyVN/GruvboxGnomeRice/blob/main/preview/screenshot1.png?raw=true)
+![alt text](https://github.com/ch1llyVN/GruvboxGnomeRice/blob/main/preview/screenshot2.png?raw=true)
 
 
